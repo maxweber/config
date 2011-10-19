@@ -5,6 +5,6 @@ first argument of the library functions is the configuration.
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Maximilian Weber
 
 Distributed under the Eclipse Public License, the same as Clojure.
