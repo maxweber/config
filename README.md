@@ -1,6 +1,7 @@
 # config
 
-Helps to configure a library if it follows the convention that the library functions get the configuration as first parameter.
+Helps to configure a library if it follows the convention that the
+first argument of the library functions is the configuration.
 
 ## License
 
